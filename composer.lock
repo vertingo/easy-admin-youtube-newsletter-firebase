@@ -10144,7 +10144,8 @@
                 "symfony/polyfill-mbstring": "~1.0",
                 "symfony/polyfill-php56": "~1.0",
                 "symfony/polyfill-php70": "~1.0",
-                "twig/twig": "~1.34|~2.4"
+                "twig/twig": "~1.34|~2.4",
+                "doctrine/data-fixtures": "1.0.*"
             },
             "conflict": {
                 "phpdocumentor/reflection-docblock": "<3.0||>=3.2.0,<3.2.2",
